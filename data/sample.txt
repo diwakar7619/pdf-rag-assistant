@@ -1,0 +1,13 @@
+Python is a programming language.
+
+Functions help organize code.
+
+Variables store values.
+
+Lists can store multiple items.
+
+Streamlit is used to build web apps with Python.
+
+AI applications often use APIs.
+
+RAG applications retrieve information before generating answers.
